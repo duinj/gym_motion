@@ -1,0 +1,8 @@
+# Ignore .lproj directories
+*.lproj/
+
+# Ignore .xcassets directories
+*.xcassets/
+
+# Ignore the specific file you mentioned (replace 'filename' with the actual filename)
+filename_to_ignore
